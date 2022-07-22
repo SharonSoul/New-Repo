@@ -1,10 +1,11 @@
 Sharon love web development
 
 git init _ for initializing a folder
-git add _ for adding a file/ multiole files in a folder to the git
+git add attendance.txt _ for adding a file/ multiole files in a folder to the git
 git status _ for checking the status of the file in the folder
 git rm --cached _ for unstaging a folder/file
 git commit -m _ for commiting the current status of a file to the git
 git config --global user.name"SharonSoul"
 git config --global user.email"olaitansharon1@gmail.com"
-git 
+.gitignore Attendance _ for ignoring a file in the folder
+"initial commit" can be anything
